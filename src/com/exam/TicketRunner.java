@@ -1,5 +1,6 @@
 package com.exam;
 
+
 public class TicketRunner {
 	/*  Result:
 	 *  Taipei    Keelung  37   2  74
